@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yyytir777})](https://solved.ac/{yyytir777})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yyytir777})](https://solved.ac/{handler})
 <!--
 **yyytir777/yyytir777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
