@@ -1,6 +1,6 @@
 ## Lim wonjae<br>
 
-[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=yyytir777)](https://solved.ac/yyytir777)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyytir777)](https://solved.ac/yyytir777)
 
 <br>
 
