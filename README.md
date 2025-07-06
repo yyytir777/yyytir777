@@ -19,3 +19,4 @@
 
 ### Experience
 - University MakeUs Challenge (UMC) 5th Server (2023.09 ~ 2024.02)
+- IT 연합 동아리 잇타(It's Time) 7기 BE (2025.03 ~ 2025.07)
