@@ -1,6 +1,6 @@
 ## Lim wonjae<br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yyytir777)](https://solved.ac/yyytir777)
+![yyytir777](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=yyytir777&theme=github-dark&size=small&compact=1&use_back_color=0&use_border=1&use_shadow=0)
 
 <br>
 
