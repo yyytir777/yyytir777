@@ -4,18 +4,23 @@
 <br>
 ![Top Langs](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=yyytir777&theme=github-dark&size=small&compact=1&use_back_color=0&use_border=1&use_shadow=0)
 
+<br>
+
 ### Certifications
 - AWS SAA-C03 (2024.04.01)
 - 정보처리기사 (2024.09.10)
 
+<br>
 
 ### Skills
-![DOCKER](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![SPRING](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+| Category | Skills |
+|---|---|
+| Framework / Backend |  ![Skills](https://go-skill-icons.vercel.app/api/icons?i=spring,springdatajpa,springsecurity) |
+| DBMS | ![Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis) |
+| DevOps / Tools | ![Skills](https://go-skill-icons.vercel.app/api/icons?i=gradle,git,githubactions,docker,nginx) |
+| Infra (AWS) | ![Skills](https://go-skill-icons.vercel.app/api/icons?i=s3,lambda,rds,ec2) |
+
+<br>
 
 ### Experiences
 - University MakeUs Challenge (UMC) 5th Server (2023.09 ~ 2024.02)
